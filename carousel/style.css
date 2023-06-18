@@ -1,0 +1,17 @@
+.carousel-item img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.carousel-caption h5 {
+  color: black;
+  font-size: 50px;
+  text-align: left;
+}
+
+.carousel-caption p {
+  color: black;
+  font-size: 45px;
+  text-align: left;
+}
